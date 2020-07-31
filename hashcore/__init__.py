@@ -1,0 +1,1 @@
+from .hashcore import *
